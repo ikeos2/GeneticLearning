@@ -36,8 +36,8 @@
       <file leaf-file-name="bot.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bot.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="40" column="42" lean-forward="false" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+            <state relative-caret-position="680">
+              <caret line="40" column="42" lean-forward="true" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -205,12 +205,27 @@
       <workItem from="1482273865578" duration="52000" />
       <workItem from="1482277022015" duration="13932000" />
       <workItem from="1482516204032" duration="871000" />
-      <workItem from="1482517386402" duration="187000" />
+      <workItem from="1482517386402" duration="781000" />
     </task>
+    <task id="LOCAL-00001" summary="Added readme&#10;TODOs&#10;=======&#10;Change goal color&#10;Make survival function better&#10;change movement method to make it less jittery">
+      <created>1482517659240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1482517659240</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added readme&#10;TODOs&#10;=======&#10;Change goal color&#10;Make survival function better&#10;change movement method to make it less jittery">
+      <created>1482518164585</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1482518164585</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16717000" />
+    <option name="totallyTimeSpent" value="17311000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,6 +281,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added readme&#10;TODOs&#10;=======&#10;Change goal color&#10;Make survival function better&#10;change movement method to make it less jittery" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added readme&#10;TODOs&#10;=======&#10;Change goal color&#10;Make survival function better&#10;change movement method to make it less jittery" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -394,8 +413,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bot.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="40" column="42" lean-forward="false" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+        <state relative-caret-position="680">
+          <caret line="40" column="42" lean-forward="true" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
           <folding />
         </state>
       </provider>
